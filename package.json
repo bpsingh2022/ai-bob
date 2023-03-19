@@ -1,0 +1,20 @@
+{
+  "name": "ai-bob",
+  "version": "1.0.0",
+  "description": "my helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bpsingh2022/ai-bob.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bpsingh2022/ai-bob/issues"
+  },
+  "homepage": "https://github.com/bpsingh2022/ai-bob#readme"
+}
