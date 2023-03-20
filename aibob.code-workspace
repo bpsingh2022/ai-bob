@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "main",
+			"path": "."
+		},{
+			"name": "faceModule",
+			"path": "./face_recognition/"
+		}
+	],
+	"settings": {}
+}
